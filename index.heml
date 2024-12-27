@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>生物学家个人简历</title>
+
+    <style>
+
+        body {
+
+            font-family: "Microsoft YaHei", sans-serif;
+
+            line-height: 1.6;
+
+            margin: 0;
+
+            padding: 20px;
+
+            background-color: #f5f5f5;
+
+        }
+
+        .container {
+
+            max-width: 1000px;
+
+            margin: 0 auto;
+
+            background-color: white;
+
+            padding: 30px;
+
+            border-radius: 10px;
+
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+        }
+
+        h1, h2 {
+
+            color: #2c3e50;
+
+            border-bottom: 2px solid #3498db;
+
+            padding-bottom: 10px;
+
+        }
+
+        .profile-img {
+
+            width: 200px;
+
+            height: 200px;
+
+            border-radius: 50%;
+
+            margin: 20px auto;
+
+            display: block;
+
+        }
+
+        .section {
+
+            margin: 20px 0;
+
+        }
+
+        .publication {
+
+            margin: 10px 0;
+
+            padding: 10px;
+
+            background-color: #f8f9fa;
+
+            border-left: 3px solid #3498db;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <img src="profile-placeholder.jpg" alt="个人照片" class="profile-img">
+
+        
+
+        <h1>张明</h1>
+
+        <p>资深生物学研究员 | 分子生物学专家</p>
+
+
+
+        <div class="section">
+
+            <h2>教育背景</h2>
+
+            <ul>
+
+                <li>北京大学 生物学博士 (2010-2015)</li>
+
+                <li>清华大学 生物科学硕士 (2007-2010)</li>
+
+                <li>复旦大学 生物科学学士 (2003-2007)</li>
+
+            </ul>
+
+        </div>
+
+
+
+        <div class="section">
+
+            <h2>研究领域</h2>
+
+            <ul>
+
+                <li>分子生物学</li>
+
+                <li>基因编辑技术</li>
+
+                <li>细胞信号通路研究</li>
+
+                <li>癌症生物学</li>
+
+            </ul>
+
+        </div>
+
+
+
+        <div class="section">
+
+            <h2>工作经历</h2>
+
+            <ul>
+
+                <li>中国科学院生物研究所 - 首席研究员 (2018-至今)</li>
+
+                <li>上海生命科学研究院 - 研究员 (2015-2018)</li>
+
+                <li>哈佛大学 - 访问学者 (2013-2014)</li>
+
+            </ul>
+
+        </div>
+
+
+
+        <div class="section">
+
+            <h2>代表性论文</h2>
+
+            <div class="publication">
+
+                Zhang M, et al. (2022). "基因编辑在癌症治疗中的新进展". Nature Biology, 25(3), 234-245.
+
+            </div>
+
+            <div class="publication">
+
+                Zhang M, et al. (2020). "细胞信号通路与肿瘤发生的关系研究". Cell Research, 18(2), 156-170.
+
+            </div>
+
+            <div class="publication">
+
+                Zhang M, et al. (2019). "分子生物学新技术在疾病诊断中的应用". Science China Life Sciences, 62(4), 445-460.
+
+            </div>
+
+        </div>
+
+
+
+        <div class="section">
+
+            <h2>获奖情况</h2>
+
+            <ul>
+
+                <li>2021 国家自然科学奖二等奖</li>
+
+                <li>2019 中国青年科技奖</li>
+
+                <li>2017 中国科学院优秀青年学者奖</li>
+
+            </ul>
+
+        </div>
+
+
+
+        <div class="section">
+
+            <h2>联系方式</h2>
+
+            <p>邮箱：zhangming@biology.ac.cn</p>
+
+            <p>电话：+86-10-12345678</p>
+
+            <p>地址：北京市海淀区科学院路甲15号</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
